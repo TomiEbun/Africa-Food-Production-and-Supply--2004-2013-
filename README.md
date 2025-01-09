@@ -1,6 +1,7 @@
 # African-Food-Production-and-Supply--2004-2013
 
-![image](https://github.com/user-attachments/assets/2e9d2c48-8bf4-47a5-8884-02645f207d53)
+![image](https://github.com/user-attachments/assets/2e9d2c48-8bf4-47a5-8884-02645f207d53)   ![image](https://github.com/user-attachments/assets/2e030b64-5525-4a1b-9fd2-156c1a46f7a1)
+
 
 
 #### PROJECT OVERVIEW
