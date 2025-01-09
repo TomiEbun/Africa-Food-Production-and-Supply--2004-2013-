@@ -70,6 +70,8 @@ South Africa highest food produces is SugarCane and Maize.
 
 #### Conclusion:
 ![image](https://github.com/user-attachments/assets/2e9d2c48-8bf4-47a5-8884-02645f207d53) 
+
+
 According to the Hypothesis testing, there was a bit significant relationship between population, food supply, and production in Africa between 2004 and 2013. Between 2004 and 2013, African countries experienced a potential food shortage due to a low food supply compared to increased production of food and population.
 
 However, the population doesn't seem to explain the possible cause of the food shortage in Africa during this time other elements like price inflation, exports, and inadequate storage facilities may be reasons for the shortage because countries with high food production have smaller food supply compared to their production.
