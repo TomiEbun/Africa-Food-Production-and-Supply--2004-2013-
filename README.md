@@ -1,6 +1,6 @@
 # African-Food-Production-and-Supply--2004-2013
 
-![image](https://github.com/user-attachments/assets/2e9d2c48-8bf4-47a5-8884-02645f207d53)   ![image](https://github.com/user-attachments/assets/2e030b64-5525-4a1b-9fd2-156c1a46f7a1)
+  ![image](https://github.com/user-attachments/assets/2e030b64-5525-4a1b-9fd2-156c1a46f7a1)
 
 
 
@@ -69,6 +69,7 @@ South Africa highest food produces is SugarCane and Maize.
 15.The correlation hypothesis shows a significant positive relationship between rice production and African countries population during a specific year, the small p value shows that the null hypothesis (H0) is rejected at the 5% level. The correlation coefficient "0.97" shows a strong relationship between average rice production each year and average African population size in the same year. However, despite a significant relationship between population and rice production, correlation doesn't imply causation. This does not necessarily imply that rice production is what causes population growth.
 
 #### Conclusion:
+![image](https://github.com/user-attachments/assets/2e9d2c48-8bf4-47a5-8884-02645f207d53) 
 According to the Hypothesis testing, there was a bit significant relationship between population, food supply, and production in Africa between 2004 and 2013. Between 2004 and 2013, African countries experienced a potential food shortage due to a low food supply compared to increased production of food and population.
 
 However, the population doesn't seem to explain the possible cause of the food shortage in Africa during this time other elements like price inflation, exports, and inadequate storage facilities may be reasons for the shortage because countries with high food production have smaller food supply compared to their production.
