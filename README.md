@@ -1,5 +1,8 @@
 # African-Food-Production-and-Supply--2004-2013
 
+![image](https://github.com/user-attachments/assets/2e9d2c48-8bf4-47a5-8884-02645f207d53)
+
+
 #### PROJECT OVERVIEW
 Food production and supply play an important role in providing nutrition and promoting economic growth in Africa.Food security includes the availability, usability, stability, and affordability of food for both people and communities.Human well-being, societal stability, poverty reduction, and sustainable development all rely on food security.
 
